@@ -9,9 +9,9 @@ bio: My research interests lies in designing, developing and evaluating
   support people explore and control the generative capabilities of new AI
   systems.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - human-ai collaboration
+  - co-creative systems
+  - NLP
 social:
   - icon: envelope
     icon_pack: fas
