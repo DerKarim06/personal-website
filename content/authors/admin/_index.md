@@ -30,15 +30,9 @@ organizations:
     url: https://www.hciai.uni-bayreuth.de/en/index.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science
+      institution: University of Bayreuth
+      year: 2023
 superuser: true
 status:
   icon: ☕️
