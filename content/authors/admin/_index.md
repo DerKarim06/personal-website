@@ -1,6 +1,6 @@
 ---
 title: Karim Benharrak
-role: undergraduate student
+role: Undergraduate Student
 avatar_filename: img_3068.jpg
 bio: My research interests lies in designing, developing and evaluating
   interactive AI systems, in particular involving Natural Language Processing. I
