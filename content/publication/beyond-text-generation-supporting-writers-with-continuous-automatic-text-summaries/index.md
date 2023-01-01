@@ -34,5 +34,5 @@ image:
   filename: screenshot-2023-01-01-at-22.41.25.png
   focal_point: Smart
   preview_only: false
-date: 2023-01-01T21:37:59.519Z
+date: 2022-11-01T21:37:59.519Z
 ---
