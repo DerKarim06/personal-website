@@ -8,7 +8,7 @@ authors:
   - admin
   - Florian Lehmann
   - Daniel Buschek
-doi: "3526113.3545672"
+doi: "10.1145/3526113.3545672"
 publication: "UIST '22: Proceedings of the 35th Annual ACM Symposium on User
   Interface Software and Technology"
 publication_short: ACM UIST 2022

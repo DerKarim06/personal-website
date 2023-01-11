@@ -41,5 +41,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I am a last-year undergraduate student at the University of Bayreuth (Germany). I am advised by Dr. Daniel Buschek working as a student researcher at the [Research Group HCI + AI](https://www.hciai.uni-bayreuth.de/en/index.html). Currently, I am working on creating data physicalizations with everyday objects together with Prof. David Lindlbauer ([Augmented Perception Lab](https://augmented-perception.org/)) and Dr. Dominik Moritz ([Data Interaction Group](https://dig.cmu.edu/)) at Carnegie Mellon University.
+I am a last-year undergraduate student at the University of Bayreuth (Germany). Advised by Dr. Daniel Buschek, I am working as a Student Researcher at the [Research Group HCI + AI](https://www.hciai.uni-bayreuth.de/en/index.html). Currently, I am working on creating data physicalizations with everyday objects together with Prof. David Lindlbauer ([Augmented Perception Lab](https://augmented-perception.org/)) and Dr. Dominik Moritz ([Data Interaction Group](https://dig.cmu.edu/)) at Carnegie Mellon University.
 {style="text-align: justify;"}
